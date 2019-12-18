@@ -6,5 +6,6 @@ The directory includes as following
 1. Training data
 2. U-Net model implemented on Jupyter Notebook
 3. Project report
+4. Referenced paper regards to the U-Net model implementation
 
 To run the model need to install relevant python libraries.
